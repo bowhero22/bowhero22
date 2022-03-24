@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bowhero22
+- 👀 I’m interested in making Java program/or studying reverse engineering!
+- 🌱 I’m currently learning reverse engineering/ Java mastering/ C/ Java Spring Boot
